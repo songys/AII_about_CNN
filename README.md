@@ -16,9 +16,6 @@ http://nbviewer.jupyter.org/github/bage79/nlp4kor/blob/master/ipynb/CNN_for_MNIS
 
 
 # 4. Convolutional Neural Networks for Sentence Classification
-아이디아: 
--풀링은 재앙이다.
--위치 정보(언어에서는 순서 정보?!)까지 학습해야 한다는 아이디아
 
 
 논문
@@ -43,7 +40,12 @@ https://tensorflow.blog/2016/11/29/pixelcnn-1601-06759-summary/#more-19774
 https://arxiv.org/abs/1612.08083
 
 
+
 # 7. CapsNet
+아이디아: 
+-풀링은 재앙이다.
+-위치 정보(언어에서는 순서 정보?!)까지 학습해야 한다
+
 관련논문
 https://arxiv.org/abs/1710.09829
 
@@ -61,7 +63,6 @@ https://medium.freecodecamp.org/understanding-capsule-networks-ais-alluring-new-
 
 코드 설명
 https://hackernoon.com/what-is-a-capsnet-or-capsule-network-2bfbe48769cc
-
 
 
 
